@@ -53,10 +53,10 @@ tester = VerEx()
 var testMe = "https://www.google.com"
 
 // Use RegExp object's native test() function
-if( tester.test( testMe ) ) then alert( "We have a correct URL ") // This output will fire
-else alert( "The URL is incorrect" )
+if( tester.test( testMe ) ) then alert "We have a correct URL " // This output will fire
+else alert "The URL is incorrect"
 
-console.log( tester ) // Ouputs the actual expression used: /^(http)(s)?(\:\/\/)(www\.)?([^\ ]*)$/ 
+console.log tester // Ouputs the actual expression used: /^(http)(s)?(\:\/\/)(www\.)?([^\ ]*)$/ 
 ```
 
 ### Replacing strings
