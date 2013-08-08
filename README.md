@@ -1,7 +1,7 @@
 VerbalExpressions v0.1
 =====================
 
-[![Build Status](https://travis-ci.org/[zimyand]/[VerbalExpressions].png)](https://travis-ci.org/[zimyand]/[VerbalExpressions])
+[![Build Status](https://travis-ci.org/zimyand/VerbalExpressions.png)](https://travis-ci.org/zimyand/VerbalExpressions)
 
 
 ## Coffeescript Regular Expressions made easy
