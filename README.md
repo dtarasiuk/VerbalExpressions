@@ -1,6 +1,9 @@
 VerbalExpressions v0.1
 =====================
 
+[![Build Status](https://travis-ci.org/[zimyand]/[VerbalExpressions].png)](https://travis-ci.org/[zimyand]/[VerbalExpressions])
+
+
 ## Coffeescript Regular Expressions made easy
 VerbalExpressions is a Coffeescript library that helps to construct difficult regular expressions.
 
